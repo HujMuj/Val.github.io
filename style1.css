@@ -6,7 +6,7 @@
   background-color:#8DF516;
 
   margin:auto;
-  width: 7%;
+  width: 15%;
   font-family: fantasy;
 }
 
@@ -26,6 +26,6 @@ font-size:120%;
 
 }
 body{
-  background-image: url("../flowers.jpg");
+  background-image: url("flowers.jpg");
 
 }
